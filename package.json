@@ -1,7 +1,7 @@
 {
-  "name": "helloworld",
+  "name": "quotes",
   "version": "0.0.1",
-  "description": "Start with a basic project",
+  "description": "A quotes archive",
   "scripts": {
     "dev": "watch -d -n 1 'clear && yarn test'",
     "test": "yarn asp -f unit.spec",
